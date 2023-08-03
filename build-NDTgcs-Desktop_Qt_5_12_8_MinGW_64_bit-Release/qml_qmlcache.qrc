@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="source/qml/MapDisplay/image/marker.png">../gcs-master/source/qml/MapDisplay/image/marker.png</file>
+        <file alias="source/qml/icon/battery.svg">../gcs-master/source/qml/icon/battery.svg</file>
+        <file alias="source/qml/icon/cross.svg">../gcs-master/source/qml/icon/cross.svg</file>
+        <file alias="source/qml/icon/eadi_adi_back.png">../gcs-master/source/qml/icon/eadi_adi_back.png</file>
+        <file alias="source/qml/icon/eye.svg">../gcs-master/source/qml/icon/eye.svg</file>
+        <file alias="source/qml/icon/fixed_wing_mark.svg">../gcs-master/source/qml/icon/fixed_wing_mark.svg</file>
+        <file alias="source/qml/icon/home.svg">../gcs-master/source/qml/icon/home.svg</file>
+        <file alias="source/qml/icon/marker.svg">../gcs-master/source/qml/icon/marker.svg</file>
+        <file alias="source/qml/icon/settings (1).svg">../gcs-master/source/qml/icon/settings (1).svg</file>
+        <file alias="source/qml/icon/settings.svg">../gcs-master/source/qml/icon/settings.svg</file>
+        <file alias="source/qml/icon/signal-alt-2.svg">../gcs-master/source/qml/icon/signal-alt-2.svg</file>
+        <file alias="source/qml/icon/unknown_mark.svg">../gcs-master/source/qml/icon/unknown_mark.svg</file>
+        <file alias="source/qml/icon/menu-burger.svg">../gcs-master/source/qml/icon/menu-burger.svg</file>
+        <file alias="source/qml/icon/check.svg">../gcs-master/source/qml/icon/check.svg</file>
+        <file alias="source/qml/icon/circle_point.svg">../gcs-master/source/qml/icon/circle_point.svg</file>
+        <file alias="source/qml/icon/trash.svg">../gcs-master/source/qml/icon/trash.svg</file>
+        <file alias="source/qml/icon/angle-left.svg">../gcs-master/source/qml/icon/angle-left.svg</file>
+        <file alias="source/qml/icon/angle-right.svg">../gcs-master/source/qml/icon/angle-right.svg</file>
+        <file alias="source/qml/icon/malne.png">../gcs-master/source/qml/icon/malne.png</file>
+        <file alias="source/qml/icon/goc.svg">../gcs-master/source/qml/icon/goc.svg</file>
+        <file alias="source/qml/icon/clock-night.png">../gcs-master/source/qml/icon/clock-night.png</file>
+        <file alias="source/qml/icon/compassMark.svg">../gcs-master/source/qml/icon/compassMark.svg</file>
+        <file alias="source/qml/icon/malecompasswhite.svg">../gcs-master/source/qml/icon/malecompasswhite.svg</file>
+        <file alias="source/qml/icon/group.svg">../gcs-master/source/qml/icon/group.svg</file>
+        <file alias="source/qml/icon/satetlite.svg">../gcs-master/source/qml/icon/satetlite.svg</file>
+        <file alias="source/qml/icon/sat1.svg">../gcs-master/source/qml/icon/sat1.svg</file>
+        <file alias="source/qml/icon/ellipse.svg">../gcs-master/source/qml/icon/ellipse.svg</file>
+    </qresource>
+</RCC>

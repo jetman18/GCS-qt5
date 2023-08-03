@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>source/qml/MapDisplay/Line.qml</file>
+        <file>source/qml/MapDisplay/Mark.qml</file>
+        <file>source/qml/MapDisplay/image/marker.png</file>
+        <file>source/qml/MapDisplay/ToolBal.qml</file>
+        <file>source/qml/control/Buttonn.qml</file>
+        <file>source/qml/icon/battery.svg</file>
+        <file>source/qml/icon/cross.svg</file>
+        <file>source/qml/icon/eadi_adi_back.png</file>
+        <file>source/qml/icon/eye.svg</file>
+        <file>source/qml/icon/fixed_wing_mark.svg</file>
+        <file>source/qml/icon/home.svg</file>
+        <file>source/qml/icon/marker.svg</file>
+        <file>source/qml/icon/settings (1).svg</file>
+        <file>source/qml/icon/settings.svg</file>
+        <file>source/qml/icon/signal-alt-2.svg</file>
+        <file>source/qml/icon/unknown_mark.svg</file>
+        <file>source/qml/icon/menu-burger.svg</file>
+        <file>source/qml/MapDisplay/Mapmenu.qml</file>
+        <file>source/qml/Helper/Helperr.js</file>
+        <file>source/qml/control/Checkbox.qml</file>
+        <file>source/qml/icon/check.svg</file>
+        <file>source/qml/icon/circle_point.svg</file>
+        <file>source/qml/MapDisplay/Mapsetting.qml</file>
+        <file>source/qml/control/Setting.qml</file>
+        <file>source/qml/icon/trash.svg</file>
+        <file>source/qml/indicators/Ahrsmainview.qml</file>
+        <file>source/qml/MapDisplay/Waypoinparam.qml</file>
+        <file>source/qml/icon/angle-left.svg</file>
+        <file>source/qml/icon/angle-right.svg</file>
+        <file>source/qml/MapDisplay/Mapview.qml</file>
+        <file>source/qml/icon/malne.png</file>
+        <file>source/qml/icon/goc.svg</file>
+        <file>source/qml/icon/clock-night.png</file>
+        <file>source/qml/icon/compassMark.svg</file>
+        <file>source/qml/icon/malecompasswhite.svg</file>
+        <file>source/qml/icon/group.svg</file>
+        <file>source/qml/MapDisplay/Linefly.qml</file>
+        <file>source/qml/icon/satetlite.svg</file>
+        <file>source/qml/icon/sat1.svg</file>
+        <file>source/qml/icon/ellipse.svg</file>
+    </qresource>
+</RCC>
